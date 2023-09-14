@@ -10,7 +10,6 @@ Projeto desenvolvido com o objetivo de colocar o aprendizado em prática.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- Javascript
 - Git e Github
 
 - [ ➡ Visite o portfólio online ](https://jaysonstn.github.io/portfolio-jayson-stn/)
